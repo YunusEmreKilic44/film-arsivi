@@ -1,0 +1,49 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "category": "sci-fi",
+      "rating": 8.8,
+      "watched": true
+    },
+    {
+      "id": 2,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "category": "action",
+      "rating": 9.0,
+      "watched": true
+    },
+    {
+      "id": 3,
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "category": "sci-fi",
+      "rating": 8.6,
+      "watched": true
+    },
+    {
+      "id": 4,
+      "title": "The Batman",
+      "year": 2022,
+      "director": "Matt Reeves",
+      "category": "action",
+      "rating": 7.8,
+      "watched": false
+    },
+    {
+      "id": 5,
+      "title": "Oppenheimer",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "category": "drama",
+      "rating": 8.5,
+      "watched": false
+    }
+  ]
+}
