@@ -135,7 +135,7 @@ console.log(process.cwd());
         stream.end(() => {
           event.emit("reportGenerated", "films-export.txt");
         });
-        res.end("Raport olusturuldu");
+        res.end("Rapor olusturuldu");
       } else {
         res.statusCode = 404;
         res.end(await renderTemplate("404.html"));

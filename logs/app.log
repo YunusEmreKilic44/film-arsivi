@@ -104,3 +104,6 @@
 [2026-01-29 10:26:24 INFO: Server started on port 3000]
 [2026-01-29 10:26:34 INFO: GET /admin]
 [2026-01-29 10:26:36 INFO: GET /api/stats]
+[2026-01-31 16:05:25 INFO: Server started on port 3000]
+[2026-01-31 16:05:33 INFO: GET /]
+[2026-01-31 16:05:33 INFO: GET /favicon.ico]
