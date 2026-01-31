@@ -133,7 +133,7 @@ console.log(process.cwd());
           stream.write(`${i + 1}. ${f.title} (${f.year})\n`);
         });
         stream.end(() => {
-          event.emit("reportGenerated", "films-export.txt");
+          event.emit("reportsGenerated", "films-export.txt");
         });
         res.end("Rapor olusturuldu");
       } else {
