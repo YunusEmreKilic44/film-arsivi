@@ -115,3 +115,7 @@
 [2026-01-31 16:17:31 INFO: GET /films/1]
 [2026-01-31 16:17:31 EVENT: filmViewed - Film Inception]
 [2026-01-31 16:18:23 INFO: GET /reports/export]
+[2026-01-31 17:09:57 INFO: Server started on port 3000]
+[2026-01-31 17:09:58 INFO: GET /]
+[2026-01-31 17:10:05 INFO: GET /reports/export]
+[2026-01-31 17:10:05 EVENT: reportsGenerated - File: films-export.txt]
